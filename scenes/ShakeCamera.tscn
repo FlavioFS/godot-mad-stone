@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scenes/ShakeCamera.gd" type="Script" id=1]
+
+[node name="ShakeCamera" type="Camera2D"]
+zoom = Vector2( 0.5, 0.5 )
+limit_left = -150
+limit_top = -100
+limit_right = 1408
+limit_bottom = 520
+limit_smoothed = true
+drag_margin_h_enabled = false
+drag_margin_v_enabled = false
+smoothing_enabled = true
+script = ExtResource( 1 )
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 0.5
+one_shot = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]
