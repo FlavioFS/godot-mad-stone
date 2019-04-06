@@ -11,4 +11,4 @@
  > If you use this, credit me at [my ArtStation](https://artstation.com/flaf).
 
 ## [Godot Documentation](https://docs.godotengine.org/en/3.1/tutorials/2d/2d_lights_and_shadows.html)
- - light.png
+ - [light.png](https://raw.githubusercontent.com/godotengine/godot-demo-projects/master/2d/lights_and_shadows/light.png)
