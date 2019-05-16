@@ -1,7 +1,7 @@
 # [Godot] Mad Stone
 Enemy scripts for an Angry smashing stone.
 
-## Video sample
+## [:tv: Video sample](http://www.youtube.com/watch?v=jn_XwXac9Go)
 [![Preview img failed to load!](img/preview.gif)](http://www.youtube.com/watch?v=jn_XwXac9Go)
 
 ## How does it work?
