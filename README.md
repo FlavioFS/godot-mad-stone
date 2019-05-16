@@ -2,7 +2,7 @@
 Enemy scripts for an Angry smashing stone.
 
 ## Video sample
-[![Whoa, some problem occurred! You should see the video thumbnail instead of this text!](http://img.youtube.com/vi/jn_XwXac9Go/0.jpg)](http://www.youtube.com/watch?v=jn_XwXac9Go)
+[![Preview img failed to load!](img/preview.gif)](http://www.youtube.com/watch?v=jn_XwXac9Go)
 
 ## How does it work?
 This enemy has 4 states represented by a enum:
