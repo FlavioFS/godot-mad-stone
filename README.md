@@ -11,4 +11,4 @@ This enemy has 4 states represented by a enum:
  - **MAD** (attacking)
  - **RAISING** (refreshing attack cooldown)
 
-Enemy script is located in [scenes/MadStone.gd](scenes/MadStone.gd), the scene is [scenes/MadStone.tscn](scenes/MadStone.tscn).
+Enemy script is located in [godot-mad-stone/scenes/MadStone.gd](godot-mad-stone/scenes/MadStone.gd), the scene is [godot-mad-stone/scenes/MadStone.tscn](godot-mad-stone/scenes/MadStone.tscn).
